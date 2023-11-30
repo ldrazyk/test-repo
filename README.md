@@ -6,3 +6,5 @@ Repository for learning Git
 
 clone - clones repo from Web to Local ('git clone https://github.com/ldrazyk/test-repo.git')
 add - adds files to tracked ('git add .' - add all)
+commit -m "File was updated"
+push - push commits to GitHub (git push origin main)
