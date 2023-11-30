@@ -1,2 +1,3 @@
-# test-repo
-Learning repository
+# Learning
+Repository for learning GitHub
+## Basic commands
