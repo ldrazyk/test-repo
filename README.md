@@ -1,3 +1,3 @@
 # Learning
-Repository for learning GitHub
+Repository for learning Git
 ## Basic commands
