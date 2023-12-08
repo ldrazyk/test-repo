@@ -14,3 +14,7 @@ Repository for learning Git
 - push : pushes commits to GitHub ( 'git push origin main', 'git push -u origin main' : upstream (in the future just 'git push') )
 - branch : shiws branches ( 'git branch' )
 - checkout : change branch or make new and change ( 'git checkout feature-1': change, 'git checkout -b feature-2' : make new and change)
+- diff : shows difference between branch and master
+- merge : merges branch with master ( 'git merge feature-1' )
+- branch -d : delete branch ( 'git branch -d feature-1' )
+- reset : removes file(s) from staging ( 'git reset' : resets all, 'git reset filename' : resets filename )
